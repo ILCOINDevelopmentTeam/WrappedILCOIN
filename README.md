@@ -1,5 +1,4 @@
 # WrappedILCOIN
-=====================================
 
 https://wilc.finance/
 
